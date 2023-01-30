@@ -7,7 +7,7 @@ With scatter_matrix we initially see correlations
 
 We analyze nulls, and distributions of variables, for example in this case the prior and post distribution applying log
 
-![imagen](https://user-images.githubusercontent.com/114614816/215428847-fd48c0f3-07b1-4b40-ad83-c742abadf46b.pnIg)
+![imagen](https://user-images.githubusercontent.com/114614816/215428847-fd48c0f3-07b1-4b40-ad83-c742abadf46b.png)
 
 **IterativeImputer** for numeric variables to predict NA based on the other variables, and on the other hand **SimpleImputer** with the "most frequent" strategy for categorical variables.
 
